@@ -12,7 +12,7 @@ Original file is located at
 ---
 
 
-**Author:** Christophe Bisière (christophe.bisiere@tsm-education.fr)
+**Author:** Mai Bui
 
 **Version:** 2022-10-03
 
