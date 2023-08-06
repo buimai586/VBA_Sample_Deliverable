@@ -9,7 +9,7 @@ This macro is used to highlight the forecast number, scanning 12k of SKUs, to fi
 
 
 
-We have 5 resulted Colors of Consensus FCST with different meanings as below:
+We have 5 resulted in Colors of Consensus FCST with different meanings as below:
 
 
 Color & Meaning
@@ -18,12 +18,12 @@ Red & FCST = 0
 Ended SKUs but FCST <> 0
 Ended SKUs but TMD > 0
 Pink & FCST = TMD
-Avalable SKUs, but TMD >= FCST
+Available SKUs, but TMD >= FCST
 Yellow
 (only during 1st 15 days of the month)
 Available SKUs, but TMD >= 80% of FCST
 Orange
-(only during last 7 days of the month)
+(only during the last 7 days of the month)
 Available SKUs, but TMD <= 70% of FCST
 No Color
 All above cases with TMD = 0
